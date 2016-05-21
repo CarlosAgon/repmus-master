@@ -1,0 +1,3503 @@
+{
+ "class" : "Voice" 
+"tree" :{
+ "class" : "RTree" 
+"dur" : 39 
+"props" :[ {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+ , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "RTree" 
+"dur" : 1 
+"props" :[ {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 } , {
+ "class" : "PRTree" "dur" : 1 "cont" : 0 }] }
+] }
+ , {
+ "class" : "SRTree" 
+"dur" : { "class" : "Ratio" "numdenum" : [3 , 8] } "props" :[ {
+ "class" : "PRTree" "dur" : 3 "cont" : 0 }] }
+] }
+
+"chords" :[ {
+ "class" : "Chord" 
+"lmidic" :[ 6200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6400] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6500] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6700] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6900] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7000] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6100] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7000] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6900] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6700] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6500] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6400] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5000 , 6500] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5800] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4900 , 6700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5800] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 7000] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 7600] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7600] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 7700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7900] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6200 , 8100] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 8200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5200 , 7300] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 8200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500 , 8100] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7900] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6100 , 7700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7600] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5000 , 7700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6200 , 7600] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7700] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 7900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 8100] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500 , 7000] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 8100] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 7900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7700] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5800 , 7600] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4800 , 7600] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6000 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7600] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5200 , 7700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7900] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7900] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500 , 7700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7600] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5800 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500 , 7600] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 7700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5800 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6000 , 7600] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6200 , 7700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5200 , 6700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6000] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5800] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 7200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500 , 7600] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 7200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5800 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6000 , 7600] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5000 , 6500] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6000] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5800] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500 , 7000] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4800] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5000 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 6700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4500 , 7200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500 , 7000] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5200 , 6700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5000 , 6500] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4800 , 6400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5000 , 6500] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4600 , 6700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6900 , 4800 , 6700] 
+"lvel" :[ 64 , 64 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6700] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 3600] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6500] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4100 , 6500] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4300] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4500 , 7200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4600] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4800 , 7200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5000] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 4000 , 7200] 
+"lvel" :[ 64 , 64 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 5000 , 7200] 
+"lvel" :[ 48 , 64 , 48] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 4800 , 7200] 
+"lvel" :[ 49 , 64 , 48] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 4600 , 7200] 
+"lvel" :[ 49 , 64 , 49] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 4500 , 7200] 
+"lvel" :[ 50 , 64 , 50] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 4300 , 7200] 
+"lvel" :[ 51 , 64 , 51] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 4500 , 7200] 
+"lvel" :[ 52 , 64 , 51] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 4600 , 7200] 
+"lvel" :[ 52 , 64 , 52] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 4800 , 7200] 
+"lvel" :[ 53 , 64 , 53] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 5000 , 7200] 
+"lvel" :[ 54 , 64 , 53] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 5200 , 7200] 
+"lvel" :[ 54 , 64 , 54] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 5300 , 7200] 
+"lvel" :[ 55 , 64 , 55] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 4300 , 7200] 
+"lvel" :[ 56 , 64 , 55] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 5300 , 7200] 
+"lvel" :[ 57 , 64 , 56] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 5200 , 7200] 
+"lvel" :[ 57 , 64 , 57] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 5000 , 7200] 
+"lvel" :[ 58 , 64 , 58] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 4800 , 7200] 
+"lvel" :[ 59 , 64 , 58] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400 , 4600 , 7200] 
+"lvel" :[ 59 , 64 , 59] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4500 , 7200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4600 , 7000] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4800 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4500 , 6700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4600 , 6500] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4800 , 6400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4200 , 7200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6400] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6600] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6700] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6900] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4300 , 7000] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4500 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4600 , 6700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4300 , 6500] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4500 , 6400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4600 , 6200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4000 , 7000] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6000] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6400] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6500] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6700] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4100 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7100] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 7200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5000 , 7600] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7700] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4700 , 6800] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7700] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4400 , 7600] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4000 , 7200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7100] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4500 , 7200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4400 , 7100] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4500 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4700 , 7200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4800 , 7100] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5000 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6800] 
+"lvel" :[ 48 , 64 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6900] 
+"lvel" :[ 48 , 48 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6800] 
+"lvel" :[ 48 , 48 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6600] 
+"lvel" :[ 49 , 49 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6400] 
+"lvel" :[ 49 , 49 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6200] 
+"lvel" :[ 50 , 49 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6000] 
+"lvel" :[ 50 , 50 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6200] 
+"lvel" :[ 50 , 50 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6400] 
+"lvel" :[ 51 , 51 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6600] 
+"lvel" :[ 51 , 51 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6800] 
+"lvel" :[ 52 , 51 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6900] 
+"lvel" :[ 52 , 52 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6200] 
+"lvel" :[ 53 , 52 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 7200] 
+"lvel" :[ 53 , 53 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 7100] 
+"lvel" :[ 53 , 53 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6900] 
+"lvel" :[ 54 , 54 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6800] 
+"lvel" :[ 54 , 54 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6600] 
+"lvel" :[ 55 , 54 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6400] 
+"lvel" :[ 55 , 55 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6600] 
+"lvel" :[ 55 , 55 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6800] 
+"lvel" :[ 56 , 56 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6900] 
+"lvel" :[ 56 , 56 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 7100] 
+"lvel" :[ 57 , 56 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 7200] 
+"lvel" :[ 57 , 57 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6600] 
+"lvel" :[ 57 , 57 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 7600] 
+"lvel" :[ 58 , 58 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 7400] 
+"lvel" :[ 58 , 58 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 7200] 
+"lvel" :[ 59 , 58 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 7100] 
+"lvel" :[ 59 , 59 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 5200 , 6900] 
+"lvel" :[ 59 , 59 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 2 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5200 , 6800] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6900] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6400 , 7100] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6200 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7600] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6000 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7700] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5900 , 7600] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 7200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7100] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6200 , 8100] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 8000] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6400 , 7800] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7600] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6500 , 8100] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 500 , 500] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7200 , 6400 , 7100] 
+"lvel" :[ 64 , 64 , 64] 
+"ldur" :[ 250 , 250 , 250] 
+"lchan" :[ 1 , 2 , 1] 
+"loffset" :[ 0 , 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7100] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6900] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4500] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4600] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4800 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5000 , 7000] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5100 , 7200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4200 , 6200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5100] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5000 , 6600] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4800] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4600 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4500] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4300 , 7000] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6700] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6900] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4300 , 7000] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4500 , 7200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4600 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 3600 , 6400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4300 , 7200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7000] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4800 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6700] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 7700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5900 , 7600] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6100 , 7700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5200 , 6700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6100 , 7600] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5900] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7600] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 7700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7900] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6200 , 8100] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 8200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5200 , 7300] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 8200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500 , 8100] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7900] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6100 , 7700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7600] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5000 , 7700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 6700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5800] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4900] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5800 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 7300] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500 , 7600] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5200 , 7300] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500 , 7100] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 7300] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 500 , 500] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4500] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 2] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7400] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4600 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 7000] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4800 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4600 , 6700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4500 , 6500] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4300 , 7000] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5800 , 6100] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 6200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500 , 6400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 6500] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5200 , 6700] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5300 , 6900] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5500 , 7400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 5700 , 6500] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 500 , 500] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 4500 , 6400] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 250 , 250] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 6200] 
+"lvel" :[ 64] 
+"ldur" :[ 250] 
+"lchan" :[ 1] 
+"loffset" :[ 0] 
+}
+ , {
+ "class" : "Chord" 
+"lmidic" :[ 3800 , 6200] 
+"lvel" :[ 64 , 64] 
+"ldur" :[ 1500 , 1500] 
+"lchan" :[ 2 , 1] 
+"loffset" :[ 0 , 0] 
+}
+] 
+"tempo" : 60
+"legato" : 100 
+}

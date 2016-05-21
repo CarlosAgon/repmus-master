@@ -1,0 +1,31 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.mlm]
+@="MLMaquetteFile"
+
+[HKEY_CLASSES_ROOT\.ml2]
+@="MLMaquetteFile"
+
+[HKEY_CLASSES_ROOT\MLMaquetteFile]
+@="Document Musique Lab 2"
+
+[HKEY_CLASSES_ROOT\MLMaquetteFile\DefaultIcon]
+@="C:\\Program Files\\Musique Lab 2\\resources\\ml-rsrc\\ml-doc.ico,0"
+
+[HKEY_CLASSES_ROOT\MLMaquetteFile\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\MLMaquetteFile\shell\open]
+
+[HKEY_CLASSES_ROOT\MLMaquetteFile\shell\open\command]
+@="\"C:\\Program Files\\Musique Lab 2\\Musique Lab 2.exe\" %1"
+
+[HKEY_CLASSES_ROOT\MLMaquetteFile\shell\open\ddeexec]
+@="[open(\"%1\")]"
+
+[HKEY_CLASSES_ROOT\MLMaquetteFile\shell\open\ddeexec\Application]
+@="Musique Lab 2"
+
+[HKEY_CLASSES_ROOT\MLMaquetteFile\shell\open\ddeexec\Topic]
+@="document"
+
